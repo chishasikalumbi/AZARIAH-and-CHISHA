@@ -1,0 +1,134 @@
+{
+  "group_id": "G01",
+  "subject": "Computer Science",
+  "books": [
+    {
+      "book_id": "G01_BOOK_001",
+      "title": "Introduction to Computer Graphics",
+      "filename": "graphicsbook-linked.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_002",
+      "title": "Evidence-Based Software Engineering",
+      "filename": "ESEUR.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_003",
+      "title": "Computer Networks: An Introduction",
+      "filename": "ComputerNetworks.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_004",
+      "title": "Delftse Foundations of Computation, Version 2.0.1",
+      "filename": "DFoC+v2.0.1.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_005",
+      "title": "Handbook of Software Engineering Methods, 2nd Edition",
+      "filename": "Handbook-of-Software-Engineering-Methods.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_006",
+      "title": "An Open Guide to Data Structures and Algorithms",
+      "filename": "algorithms-and-data-structures.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_007",
+      "title": "The Shallow and the Deep: A Biased Introduction to Neural Networks and Old School Machine Learning",
+      "filename": "The+Shallow+and+the+Deep.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_008",
+      "title": "The Missing Link: An Introduction to Web Development and Programming",
+      "filename": "The Missing Link_ An Introduction to Web Development and Programming.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_009",
+      "title": "Foundations of Computation",
+      "filename": "FoundationsOfComputation_2.3.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_010",
+      "title": "Computer Science I",
+      "filename": "ComputerScienceOne.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_011",
+      "title": "Computer Network: A Systems Approach",
+      "filename": "book.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_012",
+      "title": "Open Data Structures (Java edition)",
+      "filename": "ods-java.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_013",
+      "title": "Open Data Structures (Python edition)",
+      "filename": "ods-python.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_014",
+      "title": "ThinkCS: How to Think Like a Computer Scientist",
+      "filename": "thinkCSpy.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_015",
+      "title": "Jupyter Education Book",
+      "filename": "jupyter-edu-book.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    },
+    {
+      "book_id": "G01_BOOK_002",
+      "title": "Database Design, 2nd Edition",
+      "filename": "Database-Design-2nd-Edition-1660153697.pdf",
+      "source_type": "PDF text",
+      "permission_status": "permitted",
+      "processing_status": "pending"
+    }
+  ]
+}

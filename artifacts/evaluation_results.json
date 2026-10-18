@@ -1,0 +1,26 @@
+[
+    {
+        "question_id": 1,
+        "question": "What is computer science?",
+        "generated_prompt_length": 2336,
+        "status": "SUCCESS"
+    },
+    {
+        "question_id": 2,
+        "question": "Explain data structures and algorithms.",
+        "generated_prompt_length": 3868,
+        "status": "SUCCESS"
+    },
+    {
+        "question_id": 3,
+        "question": "How does object oriented programming work in Java?",
+        "generated_prompt_length": 4730,
+        "status": "SUCCESS"
+    },
+    {
+        "question_id": 4,
+        "question": "What is relational database design?",
+        "generated_prompt_length": 3919,
+        "status": "SUCCESS"
+    }
+]
